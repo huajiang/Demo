@@ -1,0 +1,57 @@
+body{
+font-size: 62.5%;
+}
+img{
+	vertical-align: middle;
+}
+.aside{
+	padding:1em 0;
+	border: solid #E3E3E3;
+	border-width: 1px 0;
+	background: #EEE;
+	font-size: 2.1em;
+}
+.container{
+	max-width: 720px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+.inline-block-list{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.inline-block-list li{
+	display: inline-block;
+	padding:0;
+	margin: 0 0 0 1.5em;
+	vertical-align: top;
+}
+.inline-block-list li:first-child{
+	margin-left: 0;
+}
+.icon{
+	position: relative;
+	top: 5px;
+	float: left;
+	margin-right: 5px;
+}
+a{
+	color: #069;
+	text-decoration: none;
+}
+a:hover,a:focus,a:active{
+	text-decoration: underline;
+}
+a:active,a:hover{
+	outline: 0;
+}
+.downButton{
+	background-color: #006699;
+}
+
+
+
+
+
+
